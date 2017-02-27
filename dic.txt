@@ -1,0 +1,558 @@
+AI|7|626
+AI In|1|626
+AI In order|1|626
+AI as|1|626
+AI as StarCraft|1|626
+AI challenge|1|626
+AI challenge run|1|626
+AI could|1|626
+AI could be|1|626
+AI programs|1|626
+AI programs in|1|626
+AI research|1|626
+AI research team|1|626
+AI trials|1|626
+AI trials noting|1|626
+AIs|1|626
+AIs evolving|1|626
+AIs evolving progress|1|626
+Alberta|1|626
+Alberta researcher|1|626
+Alberta researcher David|1|626
+Blizzard|1|626
+Blizzard Entertainment|1|626
+Blizzard Entertainment president|1|626
+Churchill|1|626
+Churchill He|1|626
+Churchill He predicts|1|626
+David|1|626
+David Churchill|1|626
+David Churchill He|1|626
+DeepMind|1|626
+DeepMind founder|1|626
+DeepMind founder Demis|1|626
+Demis|1|626
+Demis Hassabis|1|626
+Demis Hassabis named|1|626
+Entertainment|1|626
+Entertainment president|1|626
+Entertainment president Michael|1|626
+Eugene|1|626
+Eugene Kim|1|626
+Eugene Kim The|1|626
+Go|1|626
+Go and|1|626
+Go and then|1|626
+Hassabis|1|626
+Hassabis named|1|626
+Hassabis named StarCraft|1|626
+He|1|626
+He predicts|1|626
+He predicts humans|1|626
+In|2|626
+In March|1|626
+In March DeepMind|1|626
+In order|1|626
+In order for|1|626
+Kim|1|626
+Kim The|1|626
+Kim The continued|1|626
+March|1|626
+March DeepMind|1|626
+March DeepMind founder|1|626
+Michael|1|626
+Michael Morhaime|1|626
+Michael Morhaime is|1|626
+Morhaime|1|626
+Morhaime is|1|626
+Morhaime is eager|1|626
+StarCraft|6|626
+StarCraft AI|1|626
+StarCraft AI challenge|1|626
+StarCraft a|1|626
+StarCraft a potential|1|626
+StarCraft champions|1|626
+StarCraft champions given|1|626
+StarCraft gamer|1|626
+StarCraft gamer Eugene|1|626
+StarCraft in|1|626
+StarCraft in which|1|626
+StarCraft to|1|626
+StarCraft to be|1|626
+The|3|626
+The continued|1|626
+The continued dominion|1|626
+The games|1|626
+The games appeal|1|626
+The next|1|626
+The next frontier|1|626
+University|1|626
+University of|1|626
+University of Alberta|1|626
+a|3|626
+a computer|1|626
+a computer to|1|626
+a milestone|1|626
+a milestone on|1|626
+a potential|1|626
+a potential next|1|626
+advance|1|626
+advance of|1|626
+advance of artificial|1|626
+advantage|1|626
+advantage over|1|626
+advantage over AI|1|626
+all|1|626
+all the|1|626
+all the possible|1|626
+an|2|626
+an advantage|1|626
+an advantage over|1|626
+an opponent|1|626
+an opponent may|1|626
+and|3|626
+and deception|1|626
+and deception crucial|1|626
+and subterfuge|1|626
+and subterfuge Blizzard|1|626
+and then|1|626
+and then us|1|626
+annual|1|626
+annual StarCraft|1|626
+annual StarCraft AI|1|626
+appeal|1|626
+appeal to|1|626
+appeal to developers|1|626
+artificial|2|626
+artificial intelligence|2|626
+artificial intelligence AI|1|626
+artificial intelligence from|1|626
+as|2|626
+as StarCraft|1|626
+as StarCraft champions|1|626
+as players|1|626
+as players cannot|1|626
+assume|1|626
+assume the|1|626
+assume the roles|1|626
+at|1|626
+at once|1|626
+at once so|1|626
+be|4|626
+be a|1|626
+be a milestone|1|626
+be dethroned|1|626
+be dethroned by|1|626
+be selected|1|626
+be selected for|1|626
+be the|1|626
+be the popular|1|626
+bluffing|1|626
+bluffing and|1|626
+bluffing and deception|1|626
+board|1|626
+board at|1|626
+board at once|1|626
+by|2|626
+by AI|1|626
+by AI as|1|626
+by University|1|626
+by University of|1|626
+calculate|1|626
+calculate all|1|626
+calculate all the|1|626
+cannot|2|626
+cannot calculate|1|626
+cannot calculate all|1|626
+cannot see|1|626
+cannot see the|1|626
+challenge|1|626
+challenge run|1|626
+challenge run for|1|626
+champions|1|626
+champions given|1|626
+champions given AIs|1|626
+chess|1|626
+chess to|1|626
+chess to Go|1|626
+competing|1|626
+competing for|1|626
+competing for domination|1|626
+complex|1|626
+complex game|1|626
+complex game strategy|1|626
+computer|1|626
+computer to|1|626
+computer to win|1|626
+computers|1|626
+computers cannot|1|626
+computers cannot calculate|1|626
+consistent|1|626
+consistent victories|1|626
+consistent victories in|1|626
+continued|1|626
+continued dominion|1|626
+continued dominion of|1|626
+could|1|626
+could be|1|626
+could be the|1|626
+crucial|1|626
+crucial stratagems|1|626
+crucial stratagems that|1|626
+deception|1|626
+deception crucial|1|626
+deception crucial stratagems|1|626
+dethroned|1|626
+dethroned by|1|626
+dethroned by AI|1|626
+developers|1|626
+developers lies|1|626
+developers lies in|1|626
+different|1|626
+different warring|1|626
+different warring races|1|626
+domination|1|626
+domination using|1|626
+domination using stealth|1|626
+dominion|1|626
+dominion of|1|626
+dominion of human|1|626
+eager|1|626
+eager for|1|626
+eager for StarCraft|1|626
+entire|1|626
+entire strategy|1|626
+entire strategy board|1|626
+eventually|1|626
+eventually be|1|626
+eventually be dethroned|1|626
+evident|1|626
+evident in|1|626
+evident in the|1|626
+evolving|1|626
+evolving progress|1|626
+evolving progress in|1|626
+five|1|626
+five years|1|626
+five years by|1|626
+for|7|626
+for AI|1|626
+for AI trials|1|626
+for StarCraft|1|626
+for StarCraft to|1|626
+for a|1|626
+for a computer|1|626
+for domination|1|626
+for domination using|1|626
+for gameplaying|1|626
+for gameplaying artificial|1|626
+for his|1|626
+for his AI|1|626
+for the|1|626
+for the past|1|626
+formers|1|626
+formers consistent|1|626
+formers consistent victories|1|626
+founder|1|626
+founder Demis|1|626
+founder Demis Hassabis|1|626
+from|1|626
+from chess|1|626
+from chess to|1|626
+frontier|1|626
+frontier for|1|626
+frontier for gameplaying|1|626
+game|2|626
+game StarCraft|1|626
+game StarCraft in|1|626
+gameplaying|1|626
+gameplaying artificial|1|626
+gameplaying artificial intelligence|1|626
+gamer|1|626
+gamer Eugene|1|626
+gamer Eugene Kim|1|626
+games|1|626
+games appeal|1|626
+games appeal to|1|626
+give|1|626
+give human|1|626
+give human players|1|626
+given|1|626
+given AIs|1|626
+given AIs evolving|1|626
+his|1|626
+his AI|1|626
+his AI research|1|626
+how|1|626
+how to|1|626
+how to lie|1|626
+human|2|626
+human players|2|626
+human players an|1|626
+human players over|1|626
+humans|1|626
+humans will|1|626
+humans will eventually|1|626
+in|6|626
+in complex|1|626
+in complex game|1|626
+in its|1|626
+in its uncertainty|1|626
+in the|2|626
+in the annual|1|626
+in the formers|1|626
+in tournaments|1|626
+in tournaments is|1|626
+in which|1|626
+in which players|1|626
+intelligence|2|626
+intelligence AI|1|626
+intelligence AI could|1|626
+intelligence from|1|626
+intelligence from chess|1|626
+is|2|626
+is eager|1|626
+is eager for|1|626
+is evident|1|626
+is evident in|1|626
+it|1|626
+it needs|1|626
+it needs to|1|626
+its|1|626
+its uncertainty|1|626
+its uncertainty as|1|626
+learn|1|626
+learn how|1|626
+learn how to|1|626
+lie|1|626
+lie says|1|626
+lie says professional|1|626
+lies|1|626
+lies in|1|626
+lies in its|1|626
+love|1|626
+love to|1|626
+love to be|1|626
+makes|1|626
+makes bluffing|1|626
+makes bluffing and|1|626
+maneuvers|1|626
+maneuvers an|1|626
+maneuvers an opponent|1|626
+may|1|626
+may perform|1|626
+may perform this|1|626
+milestone|1|626
+milestone on|1|626
+milestone on that|1|626
+named|1|626
+named StarCraft|1|626
+named StarCraft a|1|626
+needs|1|626
+needs to|1|626
+needs to learn|1|626
+next|2|626
+next frontier|1|626
+next frontier for|1|626
+next target|1|626
+next target for|1|626
+noting|1|626
+noting we|1|626
+noting we would|1|626
+of|4|626
+of Alberta|1|626
+of Alberta researcher|1|626
+of artificial|1|626
+of artificial intelligence|1|626
+of human|1|626
+of human players|1|626
+of three|1|626
+of three different|1|626
+on|1|626
+on that|1|626
+on that advance|1|626
+once|1|626
+once so|1|626
+once so computers|1|626
+opponent|1|626
+opponent may|1|626
+opponent may perform|1|626
+order|1|626
+order for|1|626
+order for a|1|626
+over|2|626
+over AI|2|626
+over AI In|1|626
+over AI programs|1|626
+past|1|626
+past five|1|626
+past five years|1|626
+perform|1|626
+perform this|1|626
+perform this makes|1|626
+players|4|626
+players an|1|626
+players an advantage|1|626
+players assume|1|626
+players assume the|1|626
+players cannot|1|626
+players cannot see|1|626
+players over|1|626
+players over AI|1|626
+popular|1|626
+popular realtime|1|626
+popular realtime strategy|1|626
+possible|1|626
+possible maneuvers|1|626
+possible maneuvers an|1|626
+potential|1|626
+potential next|1|626
+potential next target|1|626
+predicts|1|626
+predicts humans|1|626
+predicts humans will|1|626
+president|1|626
+president Michael|1|626
+president Michael Morhaime|1|626
+professional|1|626
+professional StarCraft|1|626
+professional StarCraft gamer|1|626
+programs|1|626
+programs in|1|626
+programs in tournaments|1|626
+progress|1|626
+progress in|1|626
+progress in complex|1|626
+races|1|626
+races competing|1|626
+races competing for|1|626
+realtime|1|626
+realtime strategy|1|626
+realtime strategy game|1|626
+research|1|626
+research team|1|626
+research team The|1|626
+researcher|1|626
+researcher David|1|626
+researcher David Churchill|1|626
+roles|1|626
+roles of|1|626
+roles of three|1|626
+run|1|626
+run for|1|626
+run for the|1|626
+says|1|626
+says professional|1|626
+says professional StarCraft|1|626
+see|1|626
+see the|1|626
+see the entire|1|626
+selected|1|626
+selected for|1|626
+selected for AI|1|626
+so|1|626
+so computers|1|626
+so computers cannot|1|626
+stealth|1|626
+stealth and|1|626
+stealth and subterfuge|1|626
+stratagems|1|626
+stratagems that|1|626
+stratagems that give|1|626
+strategy|3|626
+strategy board|1|626
+strategy board at|1|626
+strategy game|1|626
+strategy game StarCraft|1|626
+subterfuge|1|626
+subterfuge Blizzard|1|626
+subterfuge Blizzard Entertainment|1|626
+target|1|626
+target for|1|626
+target for his|1|626
+team|1|626
+team The|1|626
+team The games|1|626
+that|2|626
+that advance|1|626
+that advance of|1|626
+that give|1|626
+that give human|1|626
+the|7|626
+the annual|1|626
+the annual StarCraft|1|626
+the entire|1|626
+the entire strategy|1|626
+the formers|1|626
+the formers consistent|1|626
+the past|1|626
+the past five|1|626
+the popular|1|626
+the popular realtime|1|626
+the possible|1|626
+the possible maneuvers|1|626
+the roles|1|626
+the roles of|1|626
+then|1|626
+then us|1|626
+then us In|1|626
+this|1|626
+this makes|1|626
+this makes bluffing|1|626
+three|1|626
+three different|1|626
+three different warring|1|626
+to|7|626
+to Go|1|626
+to Go and|1|626
+to be|2|626
+to be a|1|626
+to be selected|1|626
+to developers|1|626
+to developers lies|1|626
+to learn|1|626
+to learn how|1|626
+to lie|1|626
+to lie says|1|626
+to win|1|626
+to win it|1|626
+tournaments|1|626
+tournaments is|1|626
+tournaments is evident|1|626
+trials|1|626
+trials noting|1|626
+trials noting we|1|626
+uncertainty|1|626
+uncertainty as|1|626
+uncertainty as players|1|626
+us|1|626
+us In|1|626
+us In March|1|626
+using|1|626
+using stealth|1|626
+using stealth and|1|626
+victories|1|626
+victories in|1|626
+victories in the|1|626
+warring|1|626
+warring races|1|626
+warring races competing|1|626
+we|1|626
+we would|1|626
+we would love|1|626
+which|1|626
+which players|1|626
+which players assume|1|626
+will|1|626
+will eventually|1|626
+will eventually be|1|626
+win|1|626
+win it|1|626
+win it needs|1|626
+would|1|626
+would love|1|626
+would love to|1|626
+years|1|626
+years by|1|626
+years by University|1|626
+!
